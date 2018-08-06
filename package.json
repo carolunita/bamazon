@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon like amazon but bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolunita/bamazon.git"
+  },
+  "author": "Carolina Quiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolunita/bamazon/issues"
+  },
+  "homepage": "https://github.com/carolunita/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
